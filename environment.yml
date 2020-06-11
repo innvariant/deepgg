@@ -1,0 +1,18 @@
+name: sur-deepgg
+channels:
+- defaults
+- dglteam
+- pytorch
+dependencies:
+- dgl>=0.4.3
+- jupyter
+- matplotlib
+- networkx
+- numpy
+- pandas
+- python>=3.7
+- pytorch>=1.5
+- torchvision
+- tqdm
+- pytest
+- seaborn
