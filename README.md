@@ -1,16 +1,14 @@
-# Deep Graph Generator
+# DeepGG: Deep Graph Generator
 Learning a state-based generative model of graph distributions.
 ![Sample of generated graphs from DeepGG](res/sample.png)
 
-Disclaimer: this is currently a work under peer review and only available as preprint.
 ```bibtex
-@misc{stier2020deep,
-    title={Deep Graph Generators},
-    author={Julian Stier and Michael Granitzer},
-    year={2020},
-    eprint={2006.04159},
-    archivePrefix={arXiv},
-    primaryClass={cs.LG}
+@inproceedings{stier2020deep,
+  title={DeepGG: a Deep Graph Generator},
+  author={Stier, Julian and Granitzer, Michael},
+  booktitle={Advances in Intelligent Data Analysis XIX: 19th International Symposium on Intelligent Data Analysis, IDA 2021, Porto, Portugal, April 26--28, 2021, Proceedings},
+  pages={325},
+  organization={Springer Nature}
 }
 ```
 
